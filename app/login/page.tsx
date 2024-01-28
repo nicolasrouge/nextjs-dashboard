@@ -11,11 +11,8 @@ export default function LoginPage() {
                     </div>
                 </div>
 
-                <div className="flex h-20 w-full items-end rounded-lg p-3 md:h-36">
+                <div className="flex w-full items-end p-3">
                     <div>
-                        <div className="text-md">Hi, I did this course from the {' '}
-                            <a href="https://nextjs.org/learn/dashboard-app" className="text-blue-600" target="_blank" rel="noopener noreferrer">Next.Js website</a>
-                        </div>
                         <label className="text-md mt-4">Please use this test user:</label>
                         <div className="text-md">Email:
                             <span className="text-blue-600">user@nextmail.com</span>
